@@ -6,15 +6,12 @@ lyzmail27
 Main;
 
 function {
+ABCDEFGHI
+JKLMNOP
+QRSTUVWXYZ
 
-
-
-
-// need to put content here
-
-
-
-
+0123456789
+3216549870
 }
 
 goto Main;
