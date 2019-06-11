@@ -1,0 +1,21 @@
+lyzmail27
+
+#include <iostream.h>
+
+
+Main;
+
+function {
+
+
+
+
+// need to put content here
+
+
+
+
+}
+
+goto Main;
+End;
